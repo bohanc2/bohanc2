@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 <h3 align="center">MS ECE Student @ UW | Focus on AI & SWE</h3>
 
-- 🌱 I’m currently learning **Computer Vision, Machine Learning**
+- 🌱 I’m currently learning **Computer Vision, Machine Learning, and LLM**
 
 - 🤝 I’m looking for help with **Landing a great internship**
 
